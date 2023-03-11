@@ -1,1 +1,8 @@
+# C++ and compiled languages
+*.exe
+competitions/**/*.pdf
+# VSCode
+.vscode
+
+# pdfs
 competitions/**/*.pdf
